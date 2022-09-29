@@ -42,7 +42,7 @@ To get a local copy up and running:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check [issue page](https://github.com/HtetNaing0814/Xrocket/issues).
+Feel free to check [issue page](https://github.com/HtetNaing0814/AppleUI/issues).
 
 ## Show your support
 
